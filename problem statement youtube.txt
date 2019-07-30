@@ -1,0 +1,6 @@
+Problem Statement
+
+
+A. Find out the top 5 categories with maximum number of videos uploaded. 
+B. Find out the top 10 rated videos. 
+C. Find out the most viewed videos. 
